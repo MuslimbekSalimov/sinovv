@@ -1,0 +1,212 @@
+.hero {
+    margin-left: -80px;
+    .hero__info {
+        display: flex;
+        align-items: center;
+        gap: 576px;
+        // margin-left: -0px;
+    }
+
+    .line {
+        width: 1px;
+        height: 989px;
+        left: 310px;
+        position: absolute;
+        margin-top: -10px;
+    }
+
+    .line0 {
+        // position: absolute;
+        width: 829px;
+        height: 1px;
+        top: 73px;
+        left: 439px;
+        margin-left: -36px;
+        margin-top: -10px;
+    }
+
+    .separateLine {
+        width: 829px;
+        height: 1px;
+        margin-left: -35px;
+    }
+
+    .hero__heading {
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px;
+        color: #000000;
+    }
+
+    .hero__list {
+        display: flex;
+        align-items: center;
+        gap: 406px;
+        margin-top: -5px;
+        margin-left: -35px;
+    }
+
+    .div {
+        display: flex;
+        gap: 15px;
+    }
+
+    .hero__item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 21px;
+        // margin-top: -10px;
+    }
+
+    .hero__h2 {
+        font-family: "Segoe UI";
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 29px;
+        color: #828282;
+    }
+
+    .hero__button {
+        width:108px;
+        height: 50px;
+        background-color: #1DA1F2;
+        border: none;
+        border-radius: 50px;
+        opacity: 0.5;
+        // padding-top: ;
+
+        // Text 
+        font-family: "Segoe UI";
+        font-size: 17px;
+        font-weight: 700;
+        line-height: 17px;
+        color: #FFFFFF;
+        
+    }
+
+    // Design__own
+    .fisrtBrat {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .hammasi__img {
+        cursor: pointer;
+    }
+
+    .design__button {
+        background-color: #FFFFFF;
+        border: none;
+        width: 17px;
+        height: 4px;
+
+        font-family:  "Segoe UI";
+        font-weight: 900;
+        font-size: 24px;
+        padding-left: 30px;
+        margin-top: -100px;
+    }
+    .design__text {
+        font-family: "Segoe UI";
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #000000;
+    }
+
+    .design__heading {
+        font-family: "Segoe UI";
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 27px;
+        color: #000000;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .design__span {
+        font-family: "Segoe UI";
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #000000;
+        opacity: 0.5;
+    }
+    // Best Option
+
+    .bestBrat {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+    .best__line {
+        width: 829px;
+        height:1px;
+        margin-left: -35px;
+    }
+
+
+    .best__text {
+        width: 647px;
+        font-family: "Segoe UI";
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #000000;
+    }
+
+    .best__button {
+        margin-left: -35px;
+    }
+
+    .best__heading {
+        font-family: "Segoe UI";
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 27px;
+        color: #000000;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .best__span {
+        font-family: "Segoe UI";
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #000000;
+        opacity: 0.5;
+    }
+    
+    // Phtoto Brat
+    .photobrat {
+        display: flex;
+        // align-items: center;
+        gap: 15px;
+    }
+
+    .photo__own {
+        margin-top: -20px;
+    }
+
+    .photo__button {
+        margin-top: 20px;
+        margin-left: -64px;
+    }
+    .photo__pic {
+        display: flex;
+        flex-direction: column;
+        gap: 22px;
+    }
+
+    .finish__line {
+        width: 849px;
+        height: 1px;
+        margin-left: -40px;
+    }
+}
